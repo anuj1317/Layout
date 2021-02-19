@@ -67,7 +67,7 @@
 
     <com.google.android.material.card.MaterialCardView
        android:id="@+id/coins"
-        android:layout_width="@dimen/_90sdp"
+        android:layout_width="@dimen/_95sdp"
         android:layout_height="@dimen/_30sdp"
         app:cardCornerRadius="@dimen/_20sdp"
         app:layout_constraintTop_toBottomOf="@+id/view1"
@@ -87,11 +87,11 @@
             >
 
             <ImageButton
-                android:layout_width="49dp"
+                android:layout_width="45dp"
                 android:layout_height="39dp"
                 android:layout_gravity="center_vertical"
                 android:background="@android:color/transparent"
-                android:padding="@dimen/_4sdp"
+                android:padding="@dimen/_2sdp"
                 app:srcCompat="@drawable/ic_bell1"
 
                 />
